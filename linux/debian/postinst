@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chmod u+s /usr/bin/gimx /usr/bin/sixaddr /usr/bin/bdaddr /usr/bin/hcirevision /usr/bin/ds4tool
+chmod u+s /usr/bin/gimx /usr/bin/sixaddr /usr/bin/bdaddr /usr/bin/hcirevision /usr/bin/ds4tool /usr/bin/gimx-fetchconfig
 
 INPUT="input"
 
